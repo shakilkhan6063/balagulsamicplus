@@ -10,6 +10,6 @@ cin>>a;
 cin>>b;
 
 mul=(a/b);
-printf("shakil khan= ",mul);
+cout<<"div= "<<div;
 return 0;
 }
