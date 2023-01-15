@@ -8,7 +8,7 @@ int sum;
 cin>>a;
 cin>>b;
  sum=a+b;
- printf("thhs",sum);
+ printf("sum=%d",sum);
 
 
 
