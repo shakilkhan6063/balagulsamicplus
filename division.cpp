@@ -4,12 +4,12 @@ using namespace std;
 int main(){
 
 int a,b;
-float mul;
+float div;
 
 cin>>a;
 cin>>b;
 
-mul=(a/b);
+div=(a/b);
 cout<<"div= "<<div;
 return 0;
 }
